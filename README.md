@@ -59,6 +59,30 @@
 </p>
 
 
+### 🔹 React Todo App
+A clean and responsive Todo App with CRUD + LocalStorage
+🔗 Live: https://react-todo-app-sigma-sage.vercel.app/
+
+---
+
+### 🔹 React Product Landing Page
+Modern Nike Landing Page built using React
+🔗 Live: https://react-product-landing-page-win.vercel.app/
+
+---
+
+### 🔹 React Contact Page
+Simple and responsive Contact Page using React
+🔗 Live: https://react-contact-page-one.vercel.app/
+
+---
+
+### 🔹 MERN Notes App
+Secure Notes App with JWT Auth, Protected Routes, Dark Mode
+🔗 Live: Coming Soon
+
+
+
 
 ---
 
