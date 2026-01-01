@@ -1,7 +1,94 @@
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I+am+Akash+Nadar;Full+Stack+Developer;MERN+Developer;Frontend+Developer;Always+Learning+New+Things&center=true&size=25">
+</p>
+
+---
+
+## 👨‍💻 About Me  
+- 🔭 Currently working on Full Stack & Frontend Projects  
+- 🤝 Open to collaborating on MERN, React & real-world web applications  
+- 🤔 Looking for help with advanced backend & scalable systems  
+- 🌱 Currently learning MERN Stack, REST APIs, Authentication & Clean UI  
+- 💬 Ask me about React, JavaScript, MongoDB, Express & Git/GitHub  
+- 🎓 Certifications: IBM Web Development Fundamentals (IBM SkillsBuild)  
+- 🏆 Hackathon Participant – built solutions under time constraints  
+- ⚡ Fun fact: Secured 3rd rank in college + love building real-world projects  
+
+---
+
+## 🚀 Tech Stack
+
+### ⭐ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### 🔧 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Other Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,python" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://react-todo-app-sigma-sage.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=react-todo-app&theme=tokyonight" />
+  </a>
+  
+  <a href="https://react-product-landing-page-win.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=react-product-landing-page&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://react-contact-page-one.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=react-contact-page&theme=tokyonight" />
+  </a>
+
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=mern-notes-app&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashzone&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashzone&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=akashzone&color=blue&style=for-the-badge)
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://akash-dev-portfolio-gamma.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/akashzone">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:akashnadar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
