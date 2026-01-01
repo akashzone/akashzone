@@ -43,25 +43,11 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://react-todo-app-sigma-sage.vercel.app/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=react-todo-app&theme=tokyonight" />
-  </a>
-  
-  <a href="https://react-product-landing-page-win.vercel.app/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=react-product-landing-page&theme=tokyonight" />
-  </a>
-</p>
+[![Todo App](https://img.shields.io/badge/React%20Todo%20App-Click%20Here-blue?style=for-the-badge)](https://react-todo-app-sigma-sage.vercel.app/)
+[![Landing Page](https://img.shields.io/badge/React%20Product%20Landing%20Page-Visit-green?style=for-the-badge)](https://react-product-landing-page-win.vercel.app/)
+[![Contact Page](https://img.shields.io/badge/React%20Contact%20Page-Open-orange?style=for-the-badge)](https://react-contact-page-one.vercel.app/)
+[![MERN Notes App](https://img.shields.io/badge/MERN%20Notes%20App-Coming%20Soon-red?style=for-the-badge)](#)
 
-<p align="center">
-  <a href="https://react-contact-page-one.vercel.app/">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=react-contact-page&theme=tokyonight" />
-  </a>
-
-  <a href="#">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=mern-notes-app&theme=tokyonight" />
-  </a>
-</p>
 
 
 ---
