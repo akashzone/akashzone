@@ -44,17 +44,20 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=My+Top+Projects+🚀;React+Todo+App;Product+Landing+Page;Contact+Page;MERN+Notes+App&center=true&width=500&height=45" />
+  <a href="https://react-todo-app-sigma-sage.vercel.app/">
+    <img src="https://img.shields.io/badge/React%20Todo%20App-191919?style=for-the-badge&logo=react&logoColor=61DAFB">
+  </a>
+  <a href="https://react-product-landing-page-win.vercel.app/">
+    <img src="https://img.shields.io/badge/Product%20Landing%20Page-191919?style=for-the-badge&logo=react&logoColor=00FFFB">
+  </a>
+  <a href="https://react-contact-page-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Contact%20Page-191919?style=for-the-badge&logo=react&logoColor=purple">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/MERN%20Notes%20App-191919?style=for-the-badge&logo=mongodb&logoColor=green">
+  </a>
 </p>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="7">
-    <a href="https://react-todo-app-sigma-sage.vercel.app/">🟢 React Todo App &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://react-product-landing-page-win.vercel.app/">🔵 Product Landing Page &nbsp;&nbsp;&nbsp;</a>
-    <a href="https://react-contact-page-one.vercel.app/">🟣 Contact Page &nbsp;&nbsp;&nbsp;</a>
-    <a href="#">🟠 MERN Notes App (Coming Soon)</a>
-  </marquee>
-</p>
 
 
 ---
