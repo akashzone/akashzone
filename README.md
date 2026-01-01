@@ -40,7 +40,6 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -58,31 +57,27 @@
   </a>
 </p>
 
-
 ### 🔹 React Todo App
-A clean and responsive Todo App with CRUD + LocalStorage
+A clean and responsive Todo App with CRUD + LocalStorage  
 🔗 Live: https://react-todo-app-sigma-sage.vercel.app/
 
 ---
 
 ### 🔹 React Product Landing Page
-Modern Nike Landing Page built using React
+Modern Nike Landing Page built using React  
 🔗 Live: https://react-product-landing-page-win.vercel.app/
 
 ---
 
 ### 🔹 React Contact Page
-Simple and responsive Contact Page using React
+Simple and responsive Contact Page using React  
 🔗 Live: https://react-contact-page-one.vercel.app/
 
 ---
 
 ### 🔹 MERN Notes App
-Secure Notes App with JWT Auth, Protected Routes, Dark Mode
+Secure Notes App with JWT Auth, Protected Routes, Dark Mode  
 🔗 Live: Coming Soon
-
-
-
 
 ---
 
@@ -102,13 +97,12 @@ Secure Notes App with JWT Auth, Protected Routes, Dark Mode
 
 ---
 
-## 📈 GitHub Activity Graph
-
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashzone&theme=tokyo-night&area=true">
+  <img src="https://raw.githubusercontent.com/akashzone/akashzone/output/snake.svg" />
 </p>
 
-----
+---
 
 ## 📫 Connect With Me
 <p align="left">
