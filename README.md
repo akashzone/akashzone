@@ -43,11 +43,18 @@
 
 ## 🚀 Featured Projects
 
-[![Todo App](https://img.shields.io/badge/React%20Todo%20App-Click%20Here-blue?style=for-the-badge)](https://react-todo-app-sigma-sage.vercel.app/)
-[![Landing Page](https://img.shields.io/badge/React%20Product%20Landing%20Page-Visit-green?style=for-the-badge)](https://react-product-landing-page-win.vercel.app/)
-[![Contact Page](https://img.shields.io/badge/React%20Contact%20Page-Open-orange?style=for-the-badge)](https://react-contact-page-one.vercel.app/)
-[![MERN Notes App](https://img.shields.io/badge/MERN%20Notes%20App-Coming%20Soon-red?style=for-the-badge)](#)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=My+Top+Projects+🚀;React+Todo+App;Product+Landing+Page;Contact+Page;MERN+Notes+App&center=true&width=500&height=45" />
+</p>
 
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="7">
+    <a href="https://react-todo-app-sigma-sage.vercel.app/">🟢 React Todo App &nbsp;&nbsp;&nbsp;</a>
+    <a href="https://react-product-landing-page-win.vercel.app/">🔵 Product Landing Page &nbsp;&nbsp;&nbsp;</a>
+    <a href="https://react-contact-page-one.vercel.app/">🟣 Contact Page &nbsp;&nbsp;&nbsp;</a>
+    <a href="#">🟠 MERN Notes App (Coming Soon)</a>
+  </marquee>
+</p>
 
 
 ---
