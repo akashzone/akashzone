@@ -102,6 +102,14 @@ Secure Notes App with JWT Auth, Protected Routes, Dark Mode
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashzone&theme=tokyo-night&area=true">
+</p>
+
+----
+
 ## 📫 Connect With Me
 <p align="left">
   <a href="https://akash-dev-portfolio-gamma.vercel.app">
