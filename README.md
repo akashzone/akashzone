@@ -40,27 +40,29 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://react-todo-app-sigma-sage.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=react-todo-app&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=react-todo-app&theme=tokyonight" />
   </a>
   
   <a href="https://react-product-landing-page-win.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=react-product-landing-page&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=react-product-landing-page&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://react-contact-page-one.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=react-contact-page&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=react-contact-page&theme=tokyonight" />
   </a>
 
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashzone&repo=mern-notes-app&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=akashzone&repo=mern-notes-app&theme=tokyonight" />
   </a>
 </p>
+
 
 ---
 
