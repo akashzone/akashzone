@@ -1,88 +1,67 @@
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+I+am+Akash+Nadar;Full+Stack+Developer;MERN+Developer;Frontend+Developer;Always+Learning+New+Things&center=true&size=25">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Akash+Nadar;Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Focused+on+Real-World+Projects&center=true&size=25">
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 Currently working on Full Stack & Frontend Projects  
-- 🤝 Open to collaborating on MERN, React & real-world web applications  
-- 🤔 Looking for help with advanced backend & scalable systems  
-- 🌱 Currently learning MERN Stack, REST APIs, Authentication & Clean UI  
-- 💬 Ask me about React, JavaScript, MongoDB, Express & Git/GitHub  
-- 🎓 Certifications: IBM Web Development Fundamentals (IBM SkillsBuild)  
-- 🏆 Hackathon Participant – built solutions under time constraints  
-- ⚡ Fun fact: Secured 3rd rank in college + love building real-world projects  
+- Full Stack Developer specializing in the MERN stack  
+- Focused on building scalable, real-world web applications  
+- Strong interest in backend architecture, authentication systems, and clean UI design  
+- Continuously improving in system design and production-level development  
+- Open to collaboration on impactful and practical projects  
 
 ---
 
 ## 🚀 Tech Stack
 
-### ⭐ Frontend
+### Frontend  
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### 🔧 Backend
+### Backend  
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄️ Database
+### Database  
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🛠️ Other Tools
+### Tools & Platforms  
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,python" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
 </p>
 
 ---
 
+## 🚀 Featured Projects  
 
-## 🚀 Featured Projects
+### 🔹 Conversa AI  
+🔗 https://github.com/akashzone/Conversa-AI  
 
-<p align="center">
-  <a href="https://react-todo-app-sigma-sage.vercel.app/">
-    <img src="https://img.shields.io/badge/React%20Todo%20App-191919?style=for-the-badge&logo=react&logoColor=61DAFB">
-  </a>
-  <a href="https://react-product-landing-page-win.vercel.app/">
-    <img src="https://img.shields.io/badge/Product%20Landing%20Page-191919?style=for-the-badge&logo=react&logoColor=00FFFB">
-  </a>
-  <a href="https://react-contact-page-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Contact%20Page-191919?style=for-the-badge&logo=react&logoColor=purple">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/MERN%20Notes%20App-191919?style=for-the-badge&logo=mongodb&logoColor=green">
-  </a>
-</p>
+A full-stack AI-powered conversational platform designed to deliver real-time, interactive user experiences.  
 
-
-### 🔹 React Todo App
-A clean and responsive Todo App with CRUD + LocalStorage
-🔗 Live: https://react-todo-app-sigma-sage.vercel.app/
+**Key Highlights:**  
+- AI-driven chat system with dynamic responses  
+- Full MERN stack implementation  
+- Clean and responsive UI for seamless interaction  
+- Scalable backend structure for handling real-time communication  
 
 ---
 
-### 🔹 React Product Landing Page
-Modern Nike Landing Page built using React
-🔗 Live: https://react-product-landing-page-win.vercel.app/
+### 🔹 HabitBond *(In Progress)*  
+🔗 https://github.com/akashzone/habitbond-mern  
 
----
+A MERN-based habit accountability platform focused on consistency and shared progress tracking.  
 
-### 🔹 React Contact Page
-Simple and responsive Contact Page using React
-🔗 Live: https://react-contact-page-one.vercel.app/
-
----
-
-### 🔹 MERN Notes App
-Secure Notes App with JWT Auth, Protected Routes, Dark Mode
-🔗 Live: Coming Soon
-
-
-
+**Key Highlights:**  
+- Shared habit tracking with streak-based accountability  
+- Real-time progress monitoring  
+- User authentication and protected routes  
+- Designed for scalability and community-driven engagement  
 
 ---
 
@@ -102,15 +81,16 @@ Secure Notes App with JWT Auth, Protected Routes, Dark Mode
 
 ---
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashzone&theme=tokyo-night&area=true">
 </p>
 
-----
+---
 
-## 📫 Connect With Me
+## 📫 Connect  
+
 <p align="left">
   <a href="https://akash-dev-portfolio-gamma.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
