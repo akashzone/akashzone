@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me  
 
-- MERN stack developer currently focused on improving backend and full-stack development skills  
+- MERN stack developer focused on improving backend and full-stack development skills  
 - Building projects to strengthen understanding of APIs, authentication, databases, and application flow  
 - Interested in scalable backend systems, clean UI design, and real-world product development  
-- Currently rebuilding and refining projects independently to improve problem-solving and debugging skills  
+- Currently working on AI-powered web applications and improving problem-solving and debugging skills  
 - Open to internships, collaborations, and learning opportunities  
 
 ---
@@ -59,40 +59,33 @@ AI-powered conversational web application built using the MERN stack.
 
 ---
 
-### 🔹 HabitBond  
-🔗 https://github.com/akashzone/habitbond-mern  
-🌐 https://habitbond-mern.vercel.app/
+### 🔹 AI Resume Analyzer *(Currently Working On)*  
 
-Habit tracking and accountability platform focused on consistency and shared progress.
+AI-powered resume analysis platform designed to help users improve resumes through automated insights and feedback.
 
-**Features:**  
-- Habit tracking system  
-- Authentication and protected routes  
-- Streak tracking functionality  
-- Responsive dashboard UI  
-- Real-time features with Socket.io  
-
-**Tech Used:** React, Node.js, Express.js, MongoDB, Socket.io
-
----
-
-### 🔹 SpendWise AI *(Currently Building)*  
-
-AI-powered spend auditing platform designed to help startups optimize AI tool subscriptions and identify cost-saving opportunities.
-
-**Features Planned:**  
-- AI-generated spend analysis  
-- Personalized savings recommendations  
-- Shareable reports  
-- AI-generated summaries  
-- Lead capture system  
+**Planned Features:**  
+- Resume upload and parsing  
+- AI-generated resume analysis  
+- Skill gap insights  
+- Resume scoring system  
+- Authentication and user dashboard  
+- Analysis history tracking  
 
 **Tech Used:** React, Node.js, Express.js, MongoDB, TailwindCSS
 
-
 ---
 
-## 📊 GitHub Analytics <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashzone&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashzone&layout=compact&theme=tokyonight" /> </p> ---
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashzone&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashzone&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📈 GitHub Activity  
 
