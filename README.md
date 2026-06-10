@@ -1,113 +1,98 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Akash+Nadar;MERN+Stack+Developer;Building+Full-Stack+Web+Applications;Learning+by+Building+Real+Projects;Focused+on+Backend+Development&center=true&size=25">
-</p>
-
-<h3 align="center">Aspiring Full Stack Developer focused on building practical and user-friendly web applications.</h3>
-
----
-
-## 👨‍💻 About Me  
-
-- MERN stack developer focused on improving backend and full-stack development skills  
-- Building projects to strengthen understanding of APIs, authentication, databases, and application flow  
-- Interested in scalable backend systems, clean UI design, and real-world product development  
-- Currently working on AI-powered web applications and improving problem-solving and debugging skills  
-- Open to internships, collaborations, and learning opportunities  
-
----
-
-## 🚀 Tech Stack  
-
-### Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-### Backend  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🔹 Conversa AI  
-🔗 https://github.com/akashzone/Conversa-AI  
-🌐 https://conversa-ai-taupe.vercel.app/
-
-AI-powered conversational web application built using the MERN stack.
-
-**Features:**  
-- Real-time conversational interface  
-- Responsive and clean UI  
-- REST API integration  
-- Modular frontend and backend structure  
-- MongoDB database integration  
-
-**Tech Used:** React, Node.js, Express.js, MongoDB, TailwindCSS
-
----
-
-### 🔹 AI Resume Analyzer *(Currently Working On)*  
-
-AI-powered resume analysis platform designed to help users improve resumes through automated insights and feedback.
-
-**Planned Features:**  
-- Resume upload and parsing  
-- AI-generated resume analysis  
-- Skill gap insights  
-- Resume scoring system  
-- Authentication and user dashboard  
-- Analysis history tracking  
-
-**Tech Used:** React, Node.js, Express.js, MongoDB, TailwindCSS
-
----
-
-## 📊 GitHub Analytics  
+<h1 align="center">Hi, I'm Akash Nadar 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=akashzone&show_icons=true&theme=tokyonight" />
+  MERN Stack Developer • Building Full-Stack Applications • Learning by Building
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashzone&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+SkillForge+LMS;Learning+Backend+Development;Creating+Real-World+Projects" />
 </p>
 
 ---
 
-## 📈 GitHub Activity  
+## 👨‍💻 About Me
+
+- MERN stack developer focused on building practical web applications
+- Currently building **SkillForge LMS**
+- Learning backend architecture, authentication, and API design
+- Interested in scalable systems, clean code, and real-world product development
+- Open to internships, collaborations, and learning opportunities
+
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashzone&theme=tokyo-night&area=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,mysql,git,github,postman,vercel,vscode" />
 </p>
 
 ---
 
-## 🧠 Currently Learning  
+## 🚀 Featured Projects
 
-- Backend architecture fundamentals  
-- Authentication systems  
-- API security and validation  
-- Database design and optimization  
-- Clean code practices and debugging  
+### 🎓 SkillForge LMS *(Currently Building)*
+
+A full-stack Learning Management System built using the MERN stack.
+
+**Current Features**
+- User Registration
+- Password Hashing with bcrypt
+- Role-Based User Accounts
+- Input Validation
+- MongoDB Integration
+- Frontend ↔ Backend API Communication
+
+**Upcoming Features**
+- JWT Authentication
+- Protected Routes
+- Course Management
+- Student Dashboard
+- Instructor Dashboard
+
+🔗 Repository: https://github.com/akashzone/skillforge-lms
 
 ---
 
-## 📫 Connect With Me  
+### 🤖 Conversa AI
 
-<p align="left">
+AI-powered conversational web application built with the MERN stack.
+
+🔗 Repository: https://github.com/akashzone/Conversa-AI
+
+🌐 Live Demo: https://conversa-ai-taupe.vercel.app/
+
+**Tech Used**
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Tailwind CSS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashzone&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashzone&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Architecture
+- JWT Authentication
+- API Security
+- Database Design
+- Clean Code Practices
+- System Design Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
   <a href="https://akash-dev-portfolio-gamma.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -123,10 +108,4 @@ AI-powered resume analysis platform designed to help users improve resumes throu
   <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashzone&color=blue&style=for-the-badge" />
 </p>
