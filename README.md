@@ -41,10 +41,10 @@ A full-stack Learning Management System built using the MERN stack.
 - Input Validation
 - MongoDB Integration
 - Frontend ↔ Backend API Communication
-
-**Upcoming Features**
 - JWT Authentication
 - Protected Routes
+
+**Upcoming Features**
 - Course Management
 - Student Dashboard
 - Instructor Dashboard
