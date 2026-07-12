@@ -53,6 +53,34 @@ Backend-focused Full Stack Developer with experience building scalable web appli
 
 ## Featured Projects
 
+### LocalConnect (Currently Building)
+
+A full-stack marketplace that connects local business owners with student developers, enabling businesses to hire developers for affordable digital solutions.
+
+**Key Features**
+- Multi-role Authentication (Admin, Business Owner, Student)
+- JWT Authentication & Role-Based Access Control
+- Project Posting & Management
+- Student Applications
+- Application Tracking
+- Real-time Chat
+- Payment Integration
+- AI-powered Project Assistance
+- Admin Dashboard
+- REST APIs
+
+**Tech Stack**
+
+Node.js • Express.js • MongoDB • React • JWT • Cloudinary • Socket.io • Razorpay • Tailwind CSS
+
+Repository:
+https://github.com/akashzone/localconnect
+
+Live Demo:
+Coming Soon
+
+---
+
 ### SkillForge LMS
 
 A full-stack Learning Management System built using the MERN stack.
