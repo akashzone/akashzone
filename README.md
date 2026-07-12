@@ -113,15 +113,6 @@ https://conversa-ai-taupe.vercel.app/
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akashzone&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashzone&layout=compact" />
-</p>
-
----
-
 ## Connect
 
 Portfolio:
