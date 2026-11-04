@@ -113,7 +113,7 @@ An AI-powered college chatbot that retrieves relevant information from college d
 
 **Tech Stack:** React, Node.js, Express.js, MongoDB Atlas Vector Search, Embeddings, Gemini API, Docker.
 
-[Repository]([https://github.com/akashzone/sies-college-chatbot](https://github.com/akashzone/sies-college-rag-chatbot))
+[Repository](https://github.com/akashzone/sies-college-rag-chatbot)
 
 ---
 
