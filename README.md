@@ -1,257 +1,172 @@
 # Hi, I'm Akash Nadar
 
-**Backend-focused full stack developer** building scalable web applications and exploring the intersection of software engineering fundamentals and real-world systems.
+**Backend-Focused Full Stack Developer | B.Sc. Computer Science Student**
+
+Building backend systems, scalable APIs, and practical applications while exploring AI-powered software engineering.
 
 ---
 
 ## About Me
 
-I'm a final-year BSc Computer Science student at SIES College, passionate about backend development and system design. My focus is on building production-grade applications while strengthening my foundation in data structures, algorithms, databases, and cloud infrastructure.
+I'm a third-year B.Sc. Computer Science student at SIES College, graduating in March 2027, with a strong interest in backend development and software engineering.
 
-I approach software engineering with intentionality—each project is an opportunity to deepen my understanding of authentication, API design, database modeling, authorization, and scalable application architecture.
+I enjoy understanding how things work under the hood — from API architecture and authentication to database design, query optimization, and application reliability.
 
-I'm actively preparing for software engineering and backend development roles through hands-on development, structured learning, and continuous problem solving.
+- Currently working as a Backend Developer Intern at XyphX.
+- Building full-stack applications using the MERN stack.
+- Exploring Retrieval-Augmented Generation (RAG), LLM integrations, and AI-powered applications.
+- Strengthening my knowledge of SQL, DBMS, DSA, Docker, and backend architecture.
+- Interested in building reliable, maintainable, and production-oriented software.
 
 ---
 
 ## Tech Stack
 
 ### Languages
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Backend
-
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
-**Core Competencies:**
+**Core Concepts**
 - REST API design and development
-- JWT authentication with HTTP-only cookies
-- Access and refresh token mechanisms
+- Authentication and authorization (JWT, OAuth 2.0)
+- Access and refresh token architecture
 - Role-Based Access Control (RBAC)
-- Password hashing with bcryptjs
-- Google OAuth 2.0 integration
-- Middleware architecture
-- API validation and error handling
-- Backend CRUD operations
+- Middleware architecture and request validation
+- Database modeling and CRUD operations
+- Error handling and backend optimization
 
-### Frontend
-
+### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Libraries & Tools:**
-- React Router
-- Context API
-- Axios
-- Responsive component architecture
-- Tailwind utility-first styling
-
 ### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
 
-**Currently Learning:**
-- SQL fundamentals
-- Relational database design
-- Query optimization
-- Database normalization
-- Joins and indexing
-- DBMS concepts
-
-### Tools & Platforms
-
+### AI & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Other:** Multer • Axios • Postman • VS Code
-
----
-
-## Featured Project
-
-### LocalConnect – MERN Marketplace
-
-**Connecting local business owners with student developers**
-
-LocalConnect is a full-stack marketplace that connects local business owners with student developers for real-world software projects.
-
-The platform allows business owners to publish project requirements, students to discover and apply for projects, and admins to manage the platform.
-
-The project was built to demonstrate end-to-end full-stack development, including authentication, authorization, REST APIs, database modeling, file management, real-time communication, project lifecycle management, and administrative features.
-
-**Key Features:**
-
-- **Authentication**
-  - JWT-based authentication
-  - HTTP-only cookies
-  - Access and refresh token flow
-  - Google OAuth 2.0
-  - Secure logout functionality
-
-- **Authorization**
-  - Role-Based Access Control (RBAC)
-  - Separate permissions for Students, Business Owners, and Admins
-  - Protected frontend routes
-  - Protected backend APIs and middleware
-
-- **Project Marketplace**
-  - Business owners can create and manage projects
-  - Project categories and required skills
-  - Budget and deadline management
-  - Students can browse available projects
-
-- **Application System**
-  - Students can apply to projects
-  - Cover letter and estimated completion duration
-  - Application status tracking
-  - Accept, reject, and withdraw workflows
-  - Project lifecycle management
-
-- **Work Submission**
-  - Students can submit completed work
-  - Business owners can review submissions
-  - Project status transitions through the development lifecycle
-
-- **Real-Time Chat**
-  - Student ↔ Business Owner communication
-  - Real-time messaging using WebSockets
-  - Project-based communication
-
-- **User Profiles**
-  - Student profiles with bio and skills
-  - GitHub, LinkedIn, and portfolio links
-  - Resume uploads
-  - Profile image management
-
-- **File Management**
-  - Multer for file handling
-  - Cloudinary integration
-  - Profile image uploads
-  - Resume uploads
-  - Image cropping and editing
-
-- **Reviews & Ratings**
-  - Business owners and students can review completed work
-  - Review management through the platform
-
-- **Admin Panel**
-  - User management
-  - Project management
-  - Application management
-  - Submission management
-  - Reviews and reports
-  - Platform-level administrative controls
-
-- **Responsive UI**
-  - React-based frontend
-  - Tailwind CSS
-  - Responsive layouts
-  - Role-specific dashboards
-  - Protected navigation
-
-**Tech Stack:**
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `Tailwind CSS` • `JWT` • `Google OAuth` • `Cloudinary` • `WebSockets`
-
-**Status:** Completed
-
-**Repository:** [LocalConnect on GitHub](https://github.com/akashzone/localconnect)
+**Currently Exploring:** RAG, embeddings, vector search, LLM integrations, Docker, and backend system architecture.
 
 ---
 
-## Other Projects
+## Experience
 
-### SkillForge LMS
+### Backend Developer Intern — XyphX
 
-Learning Management System with student and instructor dashboards, course management, and progress tracking.
+Working on ShowMySkills, a platform focused on connecting opportunities and skills.
 
-**Tech:** React • Node.js • Express.js • MongoDB • JWT • Cloudinary
-
-[Repository](https://github.com/akashzone/skillforge-lms) • [Live Demo](https://skillforge-lms-kohl.vercel.app/)
-
----
-
-### Conversa AI
-
-AI-powered chat application with persistent conversation history and Gemini API integration.
-
-**Tech:** React • Node.js • Express.js • MongoDB • Gemini API
-
-[Repository](https://github.com/akashzone/Conversa-AI) • [Live Demo](https://conversa-ai-taupe.vercel.app/)
+- Developing backend features and business logic.
+- Designing and maintaining database schemas.
+- Building and improving REST APIs.
+- Working on query optimization, data integrity, and application reliability.
+- Collaborating through Git, GitHub branches, and pull requests.
 
 ---
 
-## My Learning Roadmap
+## Featured Projects
 
-Frontend Basics
-        ↓
-    MERN Stack Development
-        ↓
-Backend-Focused Development
-        ↓
-Authentication & API Security
-        ↓
-Databases & SQL
-        ↓
-Data Structures & Algorithms
-        ↓
-Cloud & Containerization
-        ↓
-System Design & Architecture
-Comfortable With ✓
-MERN stack development
-REST API development
-JWT authentication
-HTTP-only cookies
-Refresh token architecture
-Role-Based Access Control
-Google OAuth
-MongoDB & Mongoose
-Database schema modeling
-React component architecture
-Responsive design with Tailwind CSS
-Cloudinary file management
-WebSocket-based real-time communication
-Currently Learning 📚
-Data Structures & Algorithms – C++ STL, sorting, searching, recursion, hashing, arrays, linked lists, binary search
-SQL & Relational Databases – Joins, normalization, indexing, query optimization
-Backend Architecture – Scalable API design, middleware patterns, error handling
-Docker & Containerization – Building and deploying containerized applications
-AWS Fundamentals – Cloud services and infrastructure
-System Design – Scalability, distributed systems, caching, load balancing
-Operating Systems & DBMS – Core computer science fundamentals
-Current Goals
+### 1. LocalConnect — Full Stack Marketplace
 
-I'm currently focused on:
+A platform connecting local business owners with student developers for real-world software projects.
 
-Building strong backend engineering fundamentals
-Preparing for software engineering and backend development roles
-Improving DSA and problem-solving skills
-Developing production-grade full-stack applications
-Strengthening SQL and relational database knowledge
-Learning Docker and AWS
-Understanding scalable system architecture
-Improving API security and backend performance
-Contributing to open-source projects
+**Key Features**
+- JWT authentication with access and refresh tokens.
+- Google OAuth 2.0 integration.
+- Role-Based Access Control for students, business owners, and admins.
+- Project creation, applications, and lifecycle management.
+- Real-time messaging using WebSockets.
+- Resume and profile image uploads.
+- Reviews, ratings, and administrative dashboard.
 
-Connect With Me
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, JWT, OAuth 2.0, Cloudinary, WebSockets.
+
+[Repository](https://github.com/akashzone/localconnect) | [Live Demo](https://localconnect-lake.vercel.app/)
+
+---
+
+### 2. SIES College Chatbot — RAG Application
+
+An AI-powered college chatbot that retrieves relevant information from college documents and generates contextual answers using a Large Language Model.
+
+**Key Features**
+- Document ingestion and data processing.
+- Text embeddings and vector representations.
+- Semantic retrieval using MongoDB Vector Search.
+- Retrieval-Augmented Generation (RAG) pipeline.
+- Gemini API integration for response generation.
+- Docker Compose for containerized deployment.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB Atlas Vector Search, Embeddings, Gemini API, Docker.
+
+[Repository]([https://github.com/akashzone/sies-college-chatbot](https://github.com/akashzone/sies-college-rag-chatbot))
+
+---
+
+### 3. SkillForge LMS — Learning Management System
+
+A full-stack learning management platform with student and instructor dashboards, course management, and learning progress tracking.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, JWT, Cloudinary.
+
+[Repository](https://github.com/akashzone/skillforge-lms) | [Live Demo](https://skillforge-lms-kohl.vercel.app/)
+
+---
+
+### 4. Conversa AI — AI Chat Application
+
+An AI-powered chat application with Gemini API integration and persistent conversation history.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Gemini API.
+
+[Repository](https://github.com/akashzone/Conversa-AI) | [Live Demo](https://conversa-ai-taupe.vercel.app/)
+
+---
+
+## Currently Learning
+
+- **Data Structures & Algorithms:** C++ and problem-solving for technical interviews.
+- **SQL & DBMS:** Joins, normalization, indexing, and query optimization.
+- **Backend Engineering:** API architecture, security, performance, and scalability.
+- **AI Engineering:** RAG, embeddings, vector databases, and LLM application development.
+- **DevOps:** Docker, containerization, and cloud fundamentals.
+- **Computer Science Fundamentals:** Operating Systems, DBMS, and Computer Networks.
+
+---
+
+## GitHub Statistics
+
 <div align="center">
-Platform	Link
-Portfolio	akashzone.github.io
-LinkedIn	linkedin.com/in/akashnadar-dev
-Email	akashnadar.dev@gmail.com
-GitHub	@akashzone
+
+<img src="https://github-readme-stats.vercel.app/api?username=akashzone&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashzone&layout=compact&theme=github_dark&hide_border=true" height="165" />
+
 </div>
-<div align="center">
 
-Always learning. Always building.
+---
 
-</div> ```
+## Connect With Me
+
+- **Portfolio:** https://akashzone.github.io
+- **LinkedIn:** [https://linkedin.com/in/akashnadar](https://www.linkedin.com/in/akashnadar01/)
+- **Email:** akashnadar.dev@gmail.com
+- **GitHub:** https://github.com/akashzone
+
+---
+
+*Always learning. Always building.*
