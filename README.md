@@ -106,6 +106,7 @@ An AI-powered scam detection application designed to analyze suspicious brand co
 **Currently Working On:** LLM testing, unified risk scoring, domain intelligence, external threat intelligence integrations, and additional security analysis capabilities.
 
 [Repository](https://github.com/akashzone/brand-collaboration-scam-detector) |
+
 ---
 
 ### 2. LocalConnect — Full Stack Marketplace
