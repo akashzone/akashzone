@@ -1,101 +1,198 @@
-<div align="center">
+# Hi, I'm Akash Nadar 👋
 
-# Akash Nadar
+**Backend-Focused Full Stack Developer | B.Sc. Computer Science Student**
 
-**Backend-Focused Full Stack Developer**
-B.Sc. Computer Science · SIES College, Mumbai · Graduating March 2027
-
-![Open to Internships](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-ffffff?style=for-the-badge&labelColor=111111)
-
-[Portfolio](https://akashzone.github.io) · [LinkedIn](https://www.linkedin.com/in/akashnadar01/) · [Email](mailto:akashnadar.dev@gmail.com)
-
-</div>
+Building backend systems, scalable APIs, and practical applications while exploring AI-powered software engineering.
 
 ---
 
-## About
+## About Me
 
-I build backend systems, APIs, and practical applications, and I'm exploring AI-powered software engineering. I like understanding how things work under the hood: authentication, database design, query optimization, and reliability.
+I'm a final-year B.Sc. Computer Science student at SIES College, graduating in March 2027, with a strong interest in backend development and software engineering.
 
-- Backend Developer Intern at **XyphX**
-- Building full-stack apps with the MERN stack
-- Building AI apps with Python, FastAPI, and LLM integrations
-- Looking for **internship and entry-level roles** in backend / full-stack development
+I enjoy understanding how things work under the hood — from API architecture and authentication to database design, query optimization, and application reliability.
+
+- Currently working as a **Backend Developer Intern at XyphX**.
+- Building full-stack applications using the MERN stack.
+- Developing AI-powered applications using Python, FastAPI, and LLM integrations.
+- Exploring Retrieval-Augmented Generation (RAG), AI application security, and backend architecture.
+- Strengthening my knowledge of SQL, DBMS, DSA, Docker, and system design.
+- Interested in building reliable, maintainable, and production-oriented software.
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-111111?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=white)
+### Languages
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-111111?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-111111?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white)
+### Backend Development
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-111111?style=flat-square&logo=mongoose&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
-**AI & Tools**  
-![Gemini API](https://img.shields.io/badge/Gemini_API-111111?style=flat-square&logo=googlegemini&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-111111?style=flat-square&logo=postman&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-111111?style=flat-square&logo=cloudinary&logoColor=white)
+**Core Concepts**
+- REST API design and development
+- Authentication and authorization (JWT, OAuth 2.0)
+- Access and refresh token architecture
+- Role-Based Access Control (RBAC)
+- Middleware architecture and request validation
+- Database modeling and CRUD operations
+- Error handling and backend optimization
+- Service-to-service communication and API integration
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+### AI, DevOps & Developer Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Currently Exploring:** RAG, embeddings, vector search, LLM integrations, URL security analysis, Docker, and backend system architecture.
 
 ---
 
 ## Experience
 
-**Backend Developer Intern, XyphX**  
-Working on **ShowMySkills**, a platform connecting opportunities and skills.
+### Backend Developer Intern — XyphX
 
-- Developing backend features and business logic
-- Designing and maintaining database schemas
-- Building and improving REST APIs
-- Working on query optimization, data integrity, and reliability
-- Collaborating through Git, GitHub branches, and pull requests
+Working on **ShowMySkills**, a platform focused on connecting opportunities and skills.
+
+- Developing backend features and business logic.
+- Designing and maintaining database schemas.
+- Building and improving REST APIs.
+- Working on query optimization, data integrity, and application reliability.
+- Collaborating through Git, GitHub branches, and pull requests.
 
 ---
 
-## Projects
+## Featured Projects
 
-| Project | What it does | Stack | Links |
-|:--|:--|:--|:--|
-| **Brand Collaboration Scam Detector** | Analyzes suspicious brand-collaboration messages using rule-based text checks, URL/domain analysis (RDAP), and Gemini, combined into one risk score. *Frontend, deployment, and CI/CD in progress.* | Python, FastAPI, Node.js, Express, Gemini API | [Repo](https://github.com/akashzone/brand-collaboration-scam-detector) |
-| **LocalConnect** | Marketplace connecting local businesses with student developers. JWT + Google OAuth, role-based access, real-time chat, reviews, admin dashboard. | React, Node.js, MongoDB, Tailwind, WebSockets | [Repo](https://github.com/akashzone/localconnect) · [Live](https://localconnect-lake.vercel.app/) |
-| **SIES College Chatbot** | RAG chatbot that answers questions from college documents using embeddings and vector search. | React, Express, MongoDB Atlas Vector Search, Gemini, Docker | [Repo](https://github.com/akashzone/sies-college-rag-chatbot) |
-| **SkillForge LMS** | Learning platform with student and instructor dashboards, course management, and progress tracking. | React, Node.js, MongoDB, JWT, Cloudinary | [Repo](https://github.com/akashzone/skillforge-lms) · [Live](https://skillforge-lms-kohl.vercel.app/) |
-| **Conversa AI** | AI chat app with Gemini integration and persistent conversation history. | React, Express, MongoDB, Gemini API | [Repo](https://github.com/akashzone/Conversa-AI) · [Live](https://conversa-ai-taupe.vercel.app/) |
+### 1. Brand Collaboration Scam Detector — AI-Powered Security Analysis
+
+An AI-powered security application designed to analyze suspicious brand collaboration messages, identify potential fraud indicators, and assess URL and domain risks.
+
+**Key Features**
+- Rule-based text analysis to identify suspicious language, upfront payment requests, credential requests, and social engineering patterns.
+- Contextual negation handling and multiple evidence extraction.
+- Severity classification and text analysis summaries.
+- URL normalization and suspicious URL detection.
+- IP-based URL and URL shortener detection.
+- HTTPS scheme analysis and brand impersonation checks.
+- Email and URL entity extraction.
+- Gemini API integration for AI-powered scam analysis.
+- Structured AI responses with risk scores, explanations, and recommended actions.
+- Unified risk-scoring engine combining text, URL, and LLM analysis.
+- RDAP domain intelligence for domain registration analysis.
+- Express.js and Python FastAPI service integration.
+- Automated backend tests for reliability and edge cases.
+
+**Tech Stack:** Python, FastAPI, Node.js, Express.js, Google Gemini API, Pydantic, Regex, RDAP, Axios, REST APIs.
+
+**Current Development Focus:** Frontend development, end-to-end integration, deployment, evaluation, and CI/CD.
+
+[Repository](https://github.com/akashzone/brand-collaboration-scam-detector)
+
+---
+
+### 2. LocalConnect — Full Stack Marketplace
+
+A platform connecting local business owners with student developers for real-world software projects.
+
+**Key Features**
+- JWT authentication with access and refresh tokens.
+- Google OAuth 2.0 integration.
+- Role-Based Access Control for students, business owners, and admins.
+- Project creation, applications, and lifecycle management.
+- Real-time messaging using WebSockets.
+- Resume and profile image uploads.
+- Reviews, ratings, and administrative dashboard.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, JWT, OAuth 2.0, Cloudinary, WebSockets.
+
+[Repository](https://github.com/akashzone/localconnect) | [Live Demo](https://localconnect-lake.vercel.app/)
+
+---
+
+### 3. SIES College Chatbot — RAG Application
+
+An AI-powered college chatbot that retrieves relevant information from college documents and generates contextual answers using a Large Language Model.
+
+**Key Features**
+- Document ingestion and data processing.
+- Text embeddings and vector representations.
+- Semantic retrieval using MongoDB Vector Search.
+- Retrieval-Augmented Generation (RAG) pipeline.
+- Gemini API integration for response generation.
+- Docker Compose for containerized deployment.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB Atlas Vector Search, Embeddings, Gemini API, Docker.
+
+[Repository](https://github.com/akashzone/sies-college-rag-chatbot)
+
+---
+
+### 4. SkillForge LMS — Learning Management System
+
+A full-stack learning management platform with student and instructor dashboards, course management, and learning progress tracking.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, JWT, Cloudinary.
+
+[Repository](https://github.com/akashzone/skillforge-lms) | [Live Demo](https://skillforge-lms-kohl.vercel.app/)
+
+---
+
+### 5. Conversa AI — AI Chat Application
+
+An AI-powered chat application with Gemini API integration and persistent conversation history.
+
+**Tech Stack:** React, Node.js, Express.js, MongoDB, Gemini API.
+
+[Repository](https://github.com/akashzone/Conversa-AI) | [Live Demo](https://conversa-ai-taupe.vercel.app/)
 
 ---
 
 ## Currently Learning
 
-DSA in C++ · SQL & DBMS · System design · Docker & CI/CD · RAG, embeddings & vector search · OS & Computer Networks
+- **Data Structures & Algorithms:** C++ and problem-solving for technical interviews.
+- **SQL & DBMS:** Joins, normalization, indexing, and query optimization.
+- **Backend Engineering:** API architecture, security, performance, and scalability.
+- **Python Development:** FastAPI, backend services, and application integration.
+- **AI Engineering:** RAG, embeddings, vector databases, and LLM application development.
+- **Cybersecurity:** URL analysis, threat intelligence, and scam detection techniques.
+- **DevOps:** Docker, containerization, CI/CD, and cloud fundamentals.
+- **Computer Science Fundamentals:** Operating Systems, DBMS, and Computer Networks.
 
 ---
 
-<div align="center">
+## Connect With Me
 
-**Looking for internships. Let's talk.**
+- **Portfolio:** [akashzone.github.io](https://akashzone.github.io)
+- **LinkedIn:** [Akash Nadar](https://www.linkedin.com/in/akashnadar01/)
+- **Email:** akashnadar.dev@gmail.com
+- **GitHub:** [github.com/akashzone](https://github.com/akashzone)
 
-[Portfolio](https://akashzone.github.io) · [LinkedIn](https://www.linkedin.com/in/akashnadar01/) · [akashnadar.dev@gmail.com](mailto:akashnadar.dev@gmail.com)
+---
 
-</div>
+*Always learning. Always building.*
