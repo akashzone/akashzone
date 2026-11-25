@@ -1,4 +1,4 @@
-# Hi, I'm Akash Nadar 👋
+# Hi, I'm Akash Nadar
 
 **Backend-Focused Full Stack Developer | B.Sc. Computer Science Student**
 
@@ -38,6 +38,7 @@ I enjoy understanding how things work under the hood — from API architecture a
 ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 
 **Core Concepts**
+
 - REST API design and development
 - Authentication and authorization (JWT, OAuth 2.0)
 - Access and refresh token architecture
@@ -91,9 +92,10 @@ Working on **ShowMySkills**, a platform focused on connecting opportunities and 
 
 ### 1. Brand Collaboration Scam Detector — AI-Powered Security Analysis
 
-An AI-powered security application designed to analyze suspicious brand collaboration messages, identify potential fraud indicators, and assess URL and domain risks.
+An AI-powered security application that analyzes suspicious brand collaboration messages, identifies potential fraud indicators, and evaluates URL and domain risks.
 
 **Key Features**
+
 - Rule-based text analysis to identify suspicious language, upfront payment requests, credential requests, and social engineering patterns.
 - Contextual negation handling and multiple evidence extraction.
 - Severity classification and text analysis summaries.
@@ -101,26 +103,31 @@ An AI-powered security application designed to analyze suspicious brand collabor
 - IP-based URL and URL shortener detection.
 - HTTPS scheme analysis and brand impersonation checks.
 - Email and URL entity extraction.
-- Gemini API integration for AI-powered scam analysis.
+- Google Gemini API integration for AI-powered scam analysis.
 - Structured AI responses with risk scores, explanations, and recommended actions.
-- Unified risk-scoring engine combining text, URL, and LLM analysis.
-- RDAP domain intelligence for domain registration analysis.
+- Unified risk-scoring engine combining text, URL, LLM, and domain intelligence.
+- RDAP integration for domain registration and age analysis.
 - Express.js and Python FastAPI service integration.
-- Automated backend tests for reliability and edge cases.
+- Centralized error handling and partial-result handling.
+- Automated backend tests covering functionality, reliability, and edge cases.
 
-**Tech Stack:** Python, FastAPI, Node.js, Express.js, Google Gemini API, Pydantic, Regex, RDAP, Axios, REST APIs.
+**Architecture:** React + Vite frontend → Node.js + Express backend → Python + FastAPI analyzer.
 
-**Current Development Focus:** Frontend development, end-to-end integration, deployment, evaluation, and CI/CD.
+**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, Python, FastAPI, Google Gemini API, Pydantic, Regex, RDAP, Axios, REST APIs.
 
-[Repository](https://github.com/akashzone/brand-collaboration-scam-detector)
+**Deployment:** Vercel (Frontend) | Render (Express Backend and FastAPI Analyzer).
 
----
+**Current Focus:** Production reliability, real-world evaluation using scam and legitimate messages, frontend testing, and CI/CD.
+
+- [Live Demo](https://brand-collaboration-scam-detector.vercel.app/)
+- [GitHub Repository](https://github.com/akashzone/brand-collaboration-scam-detector)
 
 ### 2. LocalConnect — Full Stack Marketplace
 
 A platform connecting local business owners with student developers for real-world software projects.
 
 **Key Features**
+
 - JWT authentication with access and refresh tokens.
 - Google OAuth 2.0 integration.
 - Role-Based Access Control for students, business owners, and admins.
@@ -133,13 +140,12 @@ A platform connecting local business owners with student developers for real-wor
 
 [Repository](https://github.com/akashzone/localconnect) | [Live Demo](https://localconnect-lake.vercel.app/)
 
----
-
 ### 3. SIES College Chatbot — RAG Application
 
 An AI-powered college chatbot that retrieves relevant information from college documents and generates contextual answers using a Large Language Model.
 
 **Key Features**
+
 - Document ingestion and data processing.
 - Text embeddings and vector representations.
 - Semantic retrieval using MongoDB Vector Search.
@@ -151,8 +157,6 @@ An AI-powered college chatbot that retrieves relevant information from college d
 
 [Repository](https://github.com/akashzone/sies-college-rag-chatbot)
 
----
-
 ### 4. SkillForge LMS — Learning Management System
 
 A full-stack learning management platform with student and instructor dashboards, course management, and learning progress tracking.
@@ -160,8 +164,6 @@ A full-stack learning management platform with student and instructor dashboards
 **Tech Stack:** React, Node.js, Express.js, MongoDB, JWT, Cloudinary.
 
 [Repository](https://github.com/akashzone/skillforge-lms) | [Live Demo](https://skillforge-lms-kohl.vercel.app/)
-
----
 
 ### 5. Conversa AI — AI Chat Application
 
